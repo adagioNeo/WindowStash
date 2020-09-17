@@ -1,7 +1,7 @@
 # :skunk: WindowStash 
 A simple DOS Batch File program to implement a hidden folder for your windows
 
-## :label: Steps 
+## :label: init 
 
 1. Clone the repo to your destination folder.
 1. Open `stash.bat` and go to line 45 and replace `YOUR_PASSWORD` with your desired password.
@@ -16,7 +16,7 @@ A simple DOS Batch File program to implement a hidden folder for your windows
 1. Save and run `stash.bat`.
 1. You should see a Folder named `Locker`.
 
-> Run stash.bat to toggle `Locker` visible or hidden
+_**Run stash.bat to toggle `Locker` visible or hidden**_
 
 As Kanye West said:
 
