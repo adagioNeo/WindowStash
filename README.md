@@ -1,5 +1,5 @@
 # :skunk: WindowStash 
-A simple DOS Batch File program to implement a hidden folder for your windows
+A simple DOS Batch File program to implement a hidden folder for your MS Windows Operating Systems.
 
 ## :label: init 
 
@@ -20,4 +20,6 @@ A simple DOS Batch File program to implement a hidden folder for your windows
 
 As an AdagioNeo said:
 > Do not attempt to hide things which cannot be hidden
+
+:saxophone: :musical_keyboard: :drum: :guitar: :trumpet:
 
