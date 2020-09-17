@@ -19,7 +19,6 @@ A simple DOS Batch File program to implement a hidden folder for your windows
     _**Run `stash.bat` to toggle `Locker` visible or hidden**_
 
 As Kanye West said:
-
-    > We're living the future so
-    > the present is our past.
+> We're living the future so
+> the present is our past.
 
