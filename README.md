@@ -1,5 +1,5 @@
 # :skunk: WindowStash 
-A simple DOS Batch File program to implement a hidden folder for your MS Windows Operating Systems.
+A simple DOS Batch File program to implement a hidden folder for your MS Windows File System.
 
 ## :label: init 
 
