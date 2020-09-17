@@ -6,12 +6,24 @@ A simple DOS Batch File program to implement a hidden folder for your windows
 - [x] this is a complete item
 - [ ] this is an incomplete item
 
+## Tutorial
 
-
-I think you should use an
-`<addr>` element here instead.
+### Steps
+> Clone the repo to your destination folder.
+> Go to line 45 and replace `YOUR_PASSWORD` with your desired password.
+> Save and run stash.bat
+> You should see a Folder named `Locker`
+> Run stash.bat to toggle `Locker` visible or hidden
 
 As Kanye West said:
 
 > We're living the future so
 > the present is our past.
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
