@@ -10,7 +10,7 @@ if NOT EXIST Locker goto MDLOCKER
 
 :CONFIRM
 
-echo Are you sure u want to Lock the folder(Y/N)
+echo Are you sure you want to Lock the folder(Y/N)
 
 set/p "cho=>"
 
