@@ -15,10 +15,10 @@ A simple DOS Batch File program to implement a hidden folder for your MS Windows
 1. Save and run `stash.bat`.
 1. You should see a Folder named `Locker`.
 
-    _**!!!!!    Run `stash.bat` to toggle `Locker` to visible or hidden    !!!!!**_
+    _**:saxophone: :musical_keyboard: :drum: :guitar: :trumpet:    Run `stash.bat` to toggle `Locker` to visible or hidden    :saxophone: :musical_keyboard: :drum: :guitar: :trumpet:**_
 
 As an AdagioNeo said:
 > Do not attempt to hide things which cannot be hidden
 
-:saxophone: :musical_keyboard: :drum: :guitar: :trumpet:
+
 
