@@ -5,7 +5,6 @@ A simple DOS Batch File program to implement a hidden folder for your MS Windows
 
 1. Clone the repo to your destination folder.
 1. Open `stash.bat` and go to line 45 and replace `YOUR_PASSWORD` with your desired password.
-    1.  
     ```
     43: set/p "pass=>" 
     44: 
