@@ -17,7 +17,7 @@ A simple DOS Batch File program to implement a hidden folder for your MS Windows
 
     _**:saxophone: Run `stash.bat` to toggle `Locker` to visible or hidden :trumpet:**_
 
-As an AdagioNeo said:
+As an AdagioNeo once said:
 > Do not attempt to hide things which cannot be hidden
 
 
